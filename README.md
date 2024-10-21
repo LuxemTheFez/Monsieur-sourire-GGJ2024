@@ -31,7 +31,7 @@
 ## Game Development
 - [Eri AGNESSE](https://www.linkedin.com/in/eri-agnese/) (git: [@EAgnese](https://github.com/eagnese))
 - [Lucas DARIE](https://www.linkedin.com/in/lucasdarie/) (git: [@LucasDarie](https://github.com/lucasdarie))
-- [Loris LACERENZA](https://www.linkedin.com/in/loris-lacerenza-9543a7198/) (git: [@LuxemTheFez](https://github.com/luxemthefez))
+- [Loris LACERENZA](https://www.linkedin.com/in/loris-lacerenza-9543a7198/) (git: [@caLsiroL](https://github.com/caLsiroL))
 - [Léo LAFFONT](https://www.linkedin.com/in/léo-laffont-69818b1a5/) (git: [@leolaf](https://github.com/leolaf))
 - [Louis VAN DER PUTTEN](https://www.linkedin.com/in/louis-van-der-putten/) (git: [@DisaroSkell](https://github.com/disaroskell))
 
